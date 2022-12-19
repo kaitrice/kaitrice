@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a 4th year undergraduate majoring in Computer Science and minoring in UX Design & Pyschology at Western Washington University in Bellingham, WA.
+I'm a 4th year undergraduate majoring in ___Computer Science___ and minoring in _UX Design_ & _Pyschology_ at Western Washington University in Bellingham, WA.
 I have a passion for technology that improves daily life and is accessible to all and am eager to solve problems and fix what consumers don't know is broken.
 
 😄 Pronouns: She/Her
