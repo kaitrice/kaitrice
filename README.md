@@ -27,7 +27,7 @@ I have a passion for technology that improves daily life and is accessible to al
 
 
 ## 🛠 Skills
-Java, HTML, CSS
+Java, HTML, CSS, more...
 
 
 ## 🔗 Links
