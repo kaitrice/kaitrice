@@ -10,7 +10,7 @@ I have a passion for technology that improves daily life and is accessible to al
 
 🧠 I'm currently learning Secure Software Development & Computer Systems
 
-👩‍💻 I'm currently working on my senior project - Water Weater Station.
+👩‍💻 I'm currently working on my senior project - Water Weather Station
 
 📚 I'm currently reading [Cracking the Coding Interview](https://www.crackingthecodinginterview.com)
 
