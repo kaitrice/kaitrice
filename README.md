@@ -8,9 +8,9 @@ I have a passion for technology that improves daily life and is accessible to al
 
 😄 Pronouns: She/Her
 
-🧠 I'm currently learning Secure Software Development
+🧠 I'm currently learning Secure Software Development & Computer Systems
 
-👩‍💻 I'm currently working on [LeetCode problems](https://leetcode.com)
+👩‍💻 I'm currently working on my senior project - Water Weater Station.
 
 📚 I'm currently reading [Cracking the Coding Interview](https://www.crackingthecodinginterview.com)
 
@@ -27,7 +27,7 @@ I have a passion for technology that improves daily life and is accessible to al
 
 
 ## 🛠 Skills
-Java, HTML, CSS, more...
+Java, C, HTML, CSS, more...
 
 
 ## 🔗 Links
